@@ -22,7 +22,7 @@ In Java, all the variables must be declared before use
 
 -A variable provides us with named storage that our programs can manipulate. Each variable in Java has a specific type, which determines the size and layout of the variable's memory; the range of values that can be stored within that memory; and the set of operations that can be applied to the variable.
 
-# Program - Write Program where we will use class, method,variables?
+Program - Write Program where we will use class, method,variables?
 
 
 
@@ -43,6 +43,6 @@ method means call the function and actuall passing parameters.
 # why we use new keyword in java?
 -new is a Java keyword. It creates a Java object and allocates memory for it on the heap. new is also used for array creation, as arrays are also objects.
 
-# Programs -
+Programs -
 write program where we will call parameterised method by passsing parameter.
 for example pass age to method.
